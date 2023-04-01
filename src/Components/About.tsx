@@ -28,7 +28,7 @@ export default function About() {
                         quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
                         unde dolor?
                     </p>
-                    <a href="#" className="btn">read more</a>
+                    <a href="https://creativeair.co/" className="btn">read more</a>
                 </article>
             </div>
         </section>
